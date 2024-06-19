@@ -1,5 +1,5 @@
 # OIL AND GAS CARBON EMISSIONS DASHBOARD
-# CARBON FOOTPRINT ANALYSIS AND REDUCTION RECOMMENDATIONS (2019 - 2023)
+# CARBON FOOTPRINT ANALYSIS AND REDUCTION RECOMMENDATIONS (2019 - 2022)
 
  The analysis identifies key emission sources, trends, and areas for potential reduction, offering insights to support the company's net zero objectives and sustainable practices.
 
